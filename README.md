@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since a few months<br>📚 I'm currently learning HTML & CSS<br>🎯 Goals: becoming better & better & better <br>🎲 Fun fact: I have been driving trains for nearly 4 years</p>
+<p align="left">✨ Creating bugs since a few months<br>📚 I'm currently learning HTML & CSS<br>🎯 Goals: becoming better & better & better <br>🎲 Fun fact: I was a train driver for nearly 4 years</p>
 
 ###
 
